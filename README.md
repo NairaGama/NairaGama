@@ -13,6 +13,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 
+
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naira-gama-bb233a252/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nairagama210@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:nairagama210@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nairagama.tech?utm_source=qr&igsh=MWI3bm8yeWg0bmNx)
