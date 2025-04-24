@@ -1,4 +1,5 @@
-## Olá! Eu sou a Naira Gama 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&letterSpacing=&pause=1000&color=FF20BC&background=B451FF00&multiline=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Naira+Gama!" alt="Typing SVG" /></a>
+
 
 - 🎓 Estudante de Ciência, Tecnologia e Inovação - UFBA  
 - 💻 Aprendendo Analisar Dados
