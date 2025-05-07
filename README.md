@@ -4,11 +4,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&background=FF56FF00&center=true&width=435&lines=Code,+fail,+learn,+repeat." alt="Typing SVG" /></a>
+</div>
 
 
  🎓 Estudante de Ciência, Tecnologia e Inovação - UFBA  
  💻 Aprendendo Analisar Dados
  🚀 Buscando novos desafios e oportunidades  
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nairagama&show_icons=true&theme=radical)
